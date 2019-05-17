@@ -1,3 +1,3 @@
 # MNIST Classification
-MNIST Classification using Keras TensorFlow
+MNIST Digit Classification using Keras TensorFlow
 
