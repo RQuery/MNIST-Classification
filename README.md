@@ -1,2 +1,3 @@
-# MNIST-Classification
-Tensorflow Keras Tutorial - MNIST
+# MNIST Classification
+MNIST Classification using Keras TensorFlow
+
